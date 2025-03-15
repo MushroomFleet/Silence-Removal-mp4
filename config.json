@@ -1,0 +1,6 @@
+{
+    "input_path": "D:/TOOLS/5/test.mp4",
+    "output_path": "D:/TOOLS/5/output",
+    "silence_threshold": 0.5,
+    "min_silence_length": 0.5
+  }
